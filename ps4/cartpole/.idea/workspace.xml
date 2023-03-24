@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dec7e78d-e18a-4df0-a096-5a3bd38b5a23" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="216S74SG03qCK567qBTJHYnye11" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dec7e78d-e18a-4df0-a096-5a3bd38b5a23" name="Default Changelist" comment="" />
+      <created>1637259872239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637259872239</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="114" key="#Inspections" timestamp="1637271391741">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="114" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1637271391741" />
+    <state x="184" y="110" width="1071" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1637378126638">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="110" width="1071" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/550.-1055.1920.1055@0.0.1440.900" timestamp="1637378126638" />
+    <state x="375" y="281" key="com.intellij.ide.util.TipDialog" timestamp="1637347117240">
+      <screen x="0" y="25" width="1440" height="818" />
+    </state>
+    <state x="375" y="281" key="com.intellij.ide.util.TipDialog/0.25.1440.818/550.-1055.1920.1055@0.25.1440.818" timestamp="1637347117240" />
+  </component>
+</project>
