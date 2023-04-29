@@ -1,4 +1,4 @@
-# CS229 Problem Set Instructions
+# CS229 - MDP, Reinforcement Learning Problem Set Instructions
 
 
 ## Setup for Written Parts
